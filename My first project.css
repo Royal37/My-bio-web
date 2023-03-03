@@ -9,20 +9,16 @@ body {
 }
 
 h1 {
-  font-size: large;
+  font-size: larger;
 }
 
 p {
-  font-size: small;
+  font-size: large;
 }
 
 a {
   text-decoration: none;
   color: black;
-}
-
-.about-me {
-  text-align: left;
 }
 
 .profile-img {
@@ -37,4 +33,5 @@ a {
   background: whitesmoke;
   margin: 20px;
   box-shadow: 5px 6px;
+  font-family: Poppins, sans-serif;
 }
