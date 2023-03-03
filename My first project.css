@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+body {
+  padding: 10px;
+  font-size: 15pt;
+  background: blanchedalmond;
+  text-align: center;
+  font-family: Poppins, sans-serif;
+}
+
+h1 {
+  font-size: large;
+}
+
+p {
+  font-size: small;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.about-me {
+  text-align: left;
+}
+
+.profile-img {
+  width: 50%;
+  border-radius: 50%;
+}
+
+.button {
+  display: block;
+  color: black;
+  padding: 15px;
+  background: whitesmoke;
+  margin: 20px;
+  box-shadow: 5px 6px;
+}
